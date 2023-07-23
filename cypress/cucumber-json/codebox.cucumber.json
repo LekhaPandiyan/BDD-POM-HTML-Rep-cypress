@@ -23,7 +23,7 @@
             "name": "I successfull land to the application",
             "result": {
               "status": "passed",
-              "duration": 5233000000
+              "duration": 3311000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "I click on practice button",
             "result": {
               "status": "passed",
-              "duration": 3246000000
+              "duration": 2901000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "I should see the title of the page is 'Automation Practice'",
             "result": {
               "status": "passed",
-              "duration": 38000000
+              "duration": 29000000
             }
           }
         ]
@@ -63,7 +63,7 @@
             "name": "I click on static dropdown",
             "result": {
               "status": "passed",
-              "duration": 86000000
+              "duration": 87000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "I should able to select selenium options",
             "result": {
               "status": "passed",
-              "duration": 190000000
+              "duration": 246000000
             }
           }
         ]
