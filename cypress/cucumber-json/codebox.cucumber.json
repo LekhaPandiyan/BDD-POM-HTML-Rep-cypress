@@ -1,0 +1,83 @@
+[
+  {
+    "description": "    As a user I am enable to use all the functions in practice page",
+    "keyword": "Feature",
+    "name": "practice function for application",
+    "line": 1,
+    "id": "practice-function-for-application",
+    "tags": [],
+    "uri": "codebox.feature",
+    "elements": [
+      {
+        "id": "practice-function-for-application;as-a-user,-i-should-able-to-see-the-title-of-the-page",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "As a user, I should able to see the title of the page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I successfull land to the application",
+            "result": {
+              "status": "passed",
+              "duration": 5233000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click on practice button",
+            "result": {
+              "status": "passed",
+              "duration": 3246000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I should see the title of the page is 'Automation Practice'",
+            "result": {
+              "status": "passed",
+              "duration": 38000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "practice-function-for-application;as-a-user,-i-should-able-to-select-from-stactic-dropdown",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "As a user, I should able to select from stactic dropdown",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "I click on static dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 86000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I should able to select selenium options",
+            "result": {
+              "status": "passed",
+              "duration": 190000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
